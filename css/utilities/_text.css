@@ -1,0 +1,80 @@
+.text-green {
+  color: #09ab74;
+}
+.text-white {
+  color: #fff;
+}
+
+.text-yellow {
+  color: #e9bc03;
+}
+
+.text-gray {
+  color: rgb(129, 129, 129);
+}
+
+.text-red {
+  color: #dc5e48;
+}
+
+.text-violet {
+  color: #846ab4;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-bold {
+  font-weight: 700;
+}
+
+.text-light {
+  font-weight: 100;
+}
+
+.text-1xl {
+  font-size: 20px;
+}
+
+.text-2xl {
+  font-size: 30px;
+}
+
+.text-3xl {
+  font-size: 40px;
+}
+
+.text-4xl {
+  font-size: 50px;
+}
+
+.text-5xl {
+  font-size: 60px;
+}
+
+
+@media screen and (max-width:800px){
+  .text-2xl {
+    font-size: 18px;
+  }
+  .text-3xl {
+    font-size: 26px;
+  }
+
+  .text-4xl {
+    font-size: 32px;
+  }
+
+  .text-5xl {
+    font-size: 46px;
+  }
+}

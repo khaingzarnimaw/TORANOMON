@@ -1,0 +1,12 @@
+.box-2{
+    background: #09ab74;
+    height: 100%;
+    color: white;
+    /* font-size: 50px; */
+    text-align: center;
+    font-weight: 100;
+
+    .full-text{
+        font-size: 60px;
+    }
+}
