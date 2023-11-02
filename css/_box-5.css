@@ -1,0 +1,30 @@
+.box-5{
+
+
+    .beer-box{
+        
+    }
+
+    .beer-cup:first-child{
+        margin-left: 0;
+    }
+    .beer-cup{
+        height: 30px;
+        margin-left: -20px;
+        /* background-color: #dc5e48; */
+    }
+    .right-beer-cup{
+        height: 30px;
+
+    }
+
+    .soup{
+        height: 35px;
+
+    }
+
+    .text-box{
+        width: 80px;
+    }
+
+}
